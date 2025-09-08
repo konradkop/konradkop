@@ -26,8 +26,7 @@ I’m a Software Engineer and MPS student in **Information Science** at **Cornel
 - Building reliable, data-driven infrastructure  
 
 ⚡ **Outside of work**  
-I enjoy bridging technical solutions with social impact—whether through open source, health tech, or education.  
-
+I love reading. Currently reading "A boy and his dog at the End of the World"
 ---
 
 <!--
