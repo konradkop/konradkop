@@ -26,7 +26,7 @@ I’m a Software Engineer and MPS student in **Information Science** at **Cornel
 - Building reliable, data-driven infrastructure  
 
 ⚡ **Outside of work**  
-I love reading. Currently reading "A boy and his dog at the End of the World"
+- I love reading. Currently reading "A boy and his dog at the End of the World"
 ---
 
 <!--
