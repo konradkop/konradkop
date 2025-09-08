@@ -1,11 +1,12 @@
 # Hi, I’m Konrad 👋  
 
 I’m a Software Engineer and MPS student in **Information Science** at **Cornell University**, with experience across full-stack engineering, data systems, and security research. My work spans from building scalable web applications to analyzing complex datasets for insights.  
+
  🧑‍💻 **Currently working on** 
-     -  Skin Cancer melanoma classification! Python, pytorch all that ML stuff...
+ - Skin Cancer melanoma classification! Python, pytorch all that ML stuff...
 
  ✅ **Just Finished** 
-     -  My personal site!
+ -  My personal site!
 
 💻 **What I do**  
 - Deep learning focused on Health devices and applications
