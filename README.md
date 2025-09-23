@@ -6,7 +6,7 @@ I’m a Software Engineer and MPS student in **Information Science** at **Cornel
  - Skin Cancer melanoma classification! Python, pytorch all that ML stuff...
 
  ✅ **Just Finished** 
- -  My personal site!
+ -  Climate in Health AI hackathon
 
 💻 **What I do**  
 - Deep learning focused on Health devices and applications
