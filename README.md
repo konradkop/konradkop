@@ -13,7 +13,7 @@ I’m a Software Engineer and MPS student in **Information Science** at **Cornel
 - Deep learning focused on Health devices and applications
 - Full-stack development with **JavaScript/TypeScript, Node.js, React**  
 - Database design and optimization (**Postgres, NoSQL**)  
-- Cloud deployment on **GCP & AWS**  
+- Cloud deployment on **Azure & AWS**  
 - Data analysis with **SQL, Python, BigQuery**  
 
 🌟 **Previous experience**  
