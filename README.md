@@ -3,9 +3,10 @@
 I’m a Software Engineer and MPS student in **Information Science** at **Cornell University**, with experience across full-stack engineering, data systems, and security research. My work spans from building scalable web applications to analyzing complex datasets for insights.  
 
  🧑‍💻 **Currently working on** 
- - Skin Cancer melanoma classification! Python, pytorch all that ML stuff...
+ - Getting my Azure certification AZ-900 (Currently here) → AZ-104 → AZ-204 → AZ-400 
 
  ✅ **Just Finished** 
+ - Skin Cancer melanoma classification! Python, pytorch all that ML stuff...
  -  Climate in Health AI hackathon
 
 💻 **What I do**  
