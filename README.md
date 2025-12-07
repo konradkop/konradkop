@@ -6,6 +6,7 @@ I’m a Software Engineer and MPS student in **Information Science** at **Cornel
  - Getting my Azure certification AZ-900 (Currently here) → AZ-104 → AZ-204 → AZ-400 
 
  ✅ **Just Finished** 
+ - fishAttack - an npm library I made just for fun
  - Skin Cancer melanoma classification! Python, pytorch all that ML stuff...
  -  Climate in Health AI hackathon
 
